@@ -1,0 +1,15 @@
+{
+	"General": {
+		"Title":	"Zero Factors Application",
+		"Resolution": [1200, 1200],
+		"Background": [32, 32, 32],
+		"Foreground": [128, 128, 128],
+		"Color Z": [160, 160, 140],
+		"Starting Pop": 100
+	},
+	"Z Factor Graph": {
+		"Coordinates": [100, 100],
+		"Vert Radius": 320,
+		"Text Radius": 360
+	}
+}
